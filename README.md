@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ---
 
 - 🎓 **Education**:  
-   - Currently pursuing studies in **Computer Engineering** at **UBC**, with a strong foundation in **Machine Learning**, **Distributed Systems**, and **Cloud Computing**.  
+   - BASc in **Computer Engineering** at the **University of British Columbia**
 
 - 💡 **Technical Interests**:  
    - 🚀 **Machine Learning**: Designing efficient pipelines, running large-scale distributed training, and exploring model optimization techniques.  
