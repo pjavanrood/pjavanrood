@@ -40,12 +40,11 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🌈 **Interests**  
+### 🤩 **Interests**  
 
 - 🚀 **Machine Learning Pipelines** & Optimized Systems for AI Workloads  
 - 🖥️ Building sustainable, **carbon-aware infrastructure**  
 - 📊 Balancing performance trade-offs in **distributed systems**  
-- 🌟 Exploring **new frameworks** and contributing to **open source**  
 
 ---
 
