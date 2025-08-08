@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 
 ### 💼 **Experience**  
 - 🕸️ **Software Engineer Intern** at **Rippling**
-  - Developed an event-matching algorithm to detect missing events, scanning 6k+ events/hour, and publishing Datadog metrics.
-  - Designed a Kafka event producer for bulk database transactions, reducing report generation infrastructure cost by $216k annually.
+  - Developed an event-matching algorithm to detect missing events, scanning 6k+ events/hour.
+  - Designed a Kafka event producer for bulk database transactions, reducing infra costs by $216k annually.
 - 🏦 **Quantitative Developer Intern** at **Squarepoint Capital**
    - Built end-to-end automated solution for **anomaly detection** and cleaning of historical data.
    - Developed a real-time **Streamlit** dashboard for monitoring data quality.
